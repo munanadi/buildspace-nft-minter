@@ -1,0 +1,20 @@
+{
+    "name": "Iteration #1",
+    "symbol": "ITE",
+    "description": "Let's keep iterating",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "iteration",
+            "value": "inifinte"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
